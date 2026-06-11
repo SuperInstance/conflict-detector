@@ -1,0 +1,9 @@
+[package]
+name = "conflict-detector"
+version = "0.1.0"
+description = "A Rust library for Conflict Detector"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/conflict-detector"
+edition = "2021"
+
+[dependencies]
